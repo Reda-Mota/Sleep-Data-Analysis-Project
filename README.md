@@ -29,16 +29,14 @@ Using **Python** and advanced statistical visualization, I uncovered actionable 
 > - Individuals with **"Normal"** weight rarely suffer from sleep disorders.
 > - **Obese** and **Overweight** individuals account for the majority of *Sleep Apnea* and *Insomnia* cases.
 
-*(Place your Stacked Bar Chart here)*
-`![BMI Analysis](C:\Users\MOTA\OneDrive\Desktop\photo Data\Stackedbar.png)`
+
 
 ### 2. 📉 Stress vs. Sleep (Correlation Analysis)
 > **Insight:** A negative correlation was found between Sleep Duration and Stress Levels.
 > - As sleep duration **increases**, stress levels significantly **decrease**.
 > - This was confirmed using a Correlation Heatmap.
 
-*(Place your Heatmap here)*
-`![Heatmap](C:\Users\MOTA\OneDrive\Desktop\photo Data\Heatmap.png)`
+
 
 ### 3. 👨‍⚕️ Occupation Impact
 > **Insight:** Not all jobs are equal when it comes to rest.
